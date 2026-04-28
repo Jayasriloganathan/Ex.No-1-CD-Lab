@@ -102,6 +102,9 @@ int main() {
 
 <img width="683" height="791" alt="image" src="https://github.com/user-attachments/assets/551ac4e3-af5a-45c9-aa0c-9a14a0351b53" />
 
+<img width="551" height="682" alt="image" src="https://github.com/user-attachments/assets/f7719b88-d6cb-4468-a7fd-524c3e836a86" />
+
+
 
 # RESULT:
 
